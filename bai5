@@ -3,8 +3,6 @@
 
 int main()
 {
-    freopen("D:\\C\\input.txt","r",stdin);
-    freopen("D:\\C\\output.txt","w",stdout);
     double a, b, c;
     scanf("%lf %lf %lf",&a,&b,&c);
     if(a==0)
